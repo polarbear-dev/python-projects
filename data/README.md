@@ -18,4 +18,4 @@ The structure looks like this:
       ├── FirstName_LastName1
       │   └── data.csv
       └── FirstName_LastName5
-          └── data.csv       └── data.csv
+          └── data.csv
