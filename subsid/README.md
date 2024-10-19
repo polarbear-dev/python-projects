@@ -1,0 +1,1 @@
+﻿Files (*tm_sales_1*, *tm_sales_2*, ...) with product sales through telemarketing. Each file contains at least four columns (fields): *FILIAL_ID*, *SUBS_ID*, *PROD_ID*, *ACT_DTTM*.
