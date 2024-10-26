@@ -1,6 +1,6 @@
-﻿# Data on interactions with advertisements on a platform over 6 days and a table with characteristics of advertising clients (those who placed these ads)
+﻿## Data on interactions with advertisements on a platform over 6 days and a table with characteristics of advertising clients (those who placed these ads)
 
-* **ads_data.csv** – advertising interactions data
+#### ads_data.csv – advertising interactions data
  
 
 * **date** — the day when events occur
@@ -26,7 +26,7 @@
 * **target_audience_count** — the size of the target audience for the ad
   
 
-* **ads_clients_data.csv** – characteristics of advertising clients
+#### ads_clients_data.csv** – characteristics of advertising clients
 
 
 * **date** – date
