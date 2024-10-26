@@ -3,7 +3,8 @@
 * **date** — the day when events occur
 
 * **time** — the exact time of the event
-event — type of event, can either be an ad impression or a click
+  
+* **event** — type of event, can either be an ad impression or a click
 
 * **platform** — the platform where the ad event occurred
 
