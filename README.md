@@ -7,6 +7,14 @@
 * **companies** - a simple function for reading data and calculating the average income
 * **data** - practice working with atypical data structures
 * **delays** - a small project with data on delays in closing deals
+* **haversine** - practicing acceleration and optimization in pandas, using the example of distance calculation in a taxi service.
+
+
+
+
+
+
+
 * **inn** - a small mini-project on data filtering
 * **retail** - analysis of online retail purchases
 * **subsid** - a small analysis of telemarketing data
