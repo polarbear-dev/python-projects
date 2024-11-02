@@ -7,12 +7,11 @@
 
 
 
-The data is taken from here but split into multiple files
+The data is taken from here but split into multiple files:
 
 
 
-
-: https://www.kaggle.com/datasets/jacopoferretti/divvybikes-2019-data
+https://www.kaggle.com/datasets/jacopoferretti/divvybikes-2019-data
 
 * **trip_id** — trip ID  
 * **start_time** — start date and time of the trip  
