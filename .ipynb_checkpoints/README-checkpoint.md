@@ -1,13 +1,19 @@
 # python-projects
 
+Projects for practicing and building data manipulation skills in Python (plotting, format conversion, working with time, and more)
+
 * **ads** - advertising data analytics
 * **ads_2** - a mini-project based on advertising data
 * **avocado** - a small analysis using window functions
 * **bookings** - basic analysis of hotel booking data
+* **bikes** - practice with time manipulation based on the bike dataset
 * **companies** - a simple function for reading data and calculating the average income
 * **data** - practice working with atypical data structures
 * **delays** - a small project with data on delays in closing deals
+* **gff** - simple practice with string methods and regular expressions.
+* **haversine** - practicing acceleration and optimization in pandas, using the example of distance calculation in a taxi service.
 * **inn** - a small mini-project on data filtering
+* **pokemons and superheroes** - practice working with the shape of data
 * **retail** - analysis of online retail purchases
 * **subsid** - a small analysis of telemarketing data
 * **taxi** - basic analysis of taxi travel data in New York, which also includes information on weather conditions and holidays
