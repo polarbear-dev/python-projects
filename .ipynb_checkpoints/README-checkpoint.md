@@ -4,6 +4,7 @@ Projects for practicing and building data manipulation skills in Python (plottin
 
 * **ads** - advertising data analytics
 * **ads_2** - a mini-project based on advertising data
+* **api_practice** - a simple practice with different APIs
 * **avocado** - a small analysis using window functions
 * **bookings** - basic analysis of hotel booking data
 * **bikes** - practice with time manipulation based on the bike dataset
