@@ -7,3 +7,5 @@
 * **yandex** - fetching public Yandex Metrica test statistics
 
 * **telegram** - sending messages to chat via a bot using the Telegram API
+
+* **metmuseum** - mastering the API that allows retrieving data about Metropolitan museum collections
