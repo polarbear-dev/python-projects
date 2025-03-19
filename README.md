@@ -14,6 +14,7 @@ Projects for practicing and building data manipulation skills in Python (plottin
 * **gff** - simple practice with string methods and regular expressions.
 * **haversine** - practicing acceleration and optimization in pandas, using the example of distance calculation in a taxi service.
 * **inn** - a small mini-project on data filtering
+* **nans and errors** - practicing nan methods and try-except block
 * **pokemons and superheroes** - practice working with the shape of data
 * **retail** - analysis of online retail purchases
 * **subsid** - a small analysis of telemarketing data
